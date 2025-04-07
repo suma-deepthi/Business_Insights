@@ -4,6 +4,10 @@ In this project, the main objective is to create a report for sales, marketing, 
 1. Robust Data Modeling
 2. User-empathetic Report design
 3. Drillable Insights
+
+_[Live dashboard] (https://app.powerbi.com/links/1fwqMlYyr4?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare)_
+
+_[Project Video] (https://drive.google.com/file/d/1S4A6R7KblQqWTJlv2tCJ24CAGZSYPcnK/view?usp=drive_link)_
 ### Powber Bi techniques used:
 1. Created calculated columns
 2. Created measures using the DAX language
